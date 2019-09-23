@@ -13,7 +13,6 @@ func IntMin(a, b int) int {
     }
 }
 
-// new version for new tag
 func main() {
 	fmt.Println("This program does nothing. Was written to test testing and Github actions...")
 	fmt.Println("It can help you decide between two numbers and return the smaller one...")
