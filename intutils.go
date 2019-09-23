@@ -1,6 +1,6 @@
 package main
 
-// Extra comment for fun...
+// Ghots of git...
 import (
     "fmt"
 )
