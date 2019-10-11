@@ -13,6 +13,10 @@ func IntMin(a, b int) int {
     }
 }
 
+func nothing() {
+    fmt.Println("Does nothing...")
+}
+
 //moar hotfix for issue02
 func main() {
 	fmt.Println("This program does nothing. Was written to test testing and Github actions...")
