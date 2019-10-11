@@ -5,7 +5,7 @@ import (
 )
 
 // This function returns the smaller number of the two arguments...
-func IntMinFunction(a, b int) int {
+func IntMinFuncTEMPName(a, b int) int {
     if a < b {
         return a
     } else {
