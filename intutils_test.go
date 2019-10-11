@@ -5,9 +5,7 @@ import (
     "fmt"
 )
 
-
-// A test is created by writing a function with a name
-// beginning with `Test`.
+// A test is created by writing a function with a name beginning with `Test`.
 func TestIntMinBasic(t *testing.T) {
     ans := IntMin(2, -2)
     if ans != -2 {
