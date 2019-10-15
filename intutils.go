@@ -13,7 +13,7 @@ func IntMin(a, b int) int {
     }
 }
 
-// fix	 comment
+// fix comment
 func nothing() {
     fmt.Println("Does nothing...")
 }
