@@ -4,6 +4,7 @@ import (
     "fmt"
 )
 
+// some change in main branch
 // This function returns the smaller number of the two arguments...
 func IntMin(a, b int) int {
     if a < b {
