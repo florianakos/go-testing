@@ -14,6 +14,7 @@ func IntMin(a, b int) int {
     }
 }
 
+// some more changes in main branch
 // fix comment
 func nothing() {
     fmt.Println("Does nothing...")
