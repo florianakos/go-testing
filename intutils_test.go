@@ -5,7 +5,7 @@ import (
     "fmt"
 )
 
-// some chane in test branch...
+// some more change in test branch...
 // A test is created by writing a function with a name beginning with `Test`.
 func TestIntMinBasic(t *testing.T) {
     ans := IntMin(2, -2)
